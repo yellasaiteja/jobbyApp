@@ -1,0 +1,10 @@
+.similar-job-item {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  background-color: #202020;
+  padding: 25px;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
